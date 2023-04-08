@@ -43,7 +43,7 @@ class _LogInState extends State<LogIn> {
                     builder: (context) {
                       return Container(
                         child: AlertDialog(
-                            title: Text("You loged In Successfully"),
+                            title: Text("You have logged In Successfully"),
                             actions: [
                               TextButton(
                                   onPressed: () {
